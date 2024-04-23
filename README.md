@@ -9,7 +9,7 @@ Possible screen recording options are:
 - Full screen
 - Selected area
 
-![image](https://github.com/michal-trb/screenshot-app-readme/assets/85738518/c510717f-a845-4eb4-a029-fccb87fdc9ac)
+![1](https://github.com/michal-trb/screenshot-app-readme/assets/85738518/d8013793-cd78-424d-aa22-766a9d161f64)
 
 
 Editing screenshots allows you to :
@@ -22,14 +22,14 @@ Editing screenshots allows you to :
   
 it is possible to edit elements that have already been placed, to change the text, move objects or change their size 
 
-![image](https://github.com/michal-trb/screenshot-app-readme/assets/85738518/749571b6-e39b-41f7-931d-4c2fafd62355)
+![2](https://github.com/michal-trb/screenshot-app-readme/assets/85738518/4c5a571b-3e70-4b81-a2ba-39564cec38a6)
 
 
 in addition, the editor allows you to recognize the text on the screenshot, 
 direct upload to a dropbox connected to the application (the user can connect his account),
 image resizing
 
-![image](https://github.com/michal-trb/screenshot-app-readme/assets/85738518/93eac45b-4b4e-4d14-b368-4857578c2f88)
+![3](https://github.com/michal-trb/screenshot-app-readme/assets/85738518/4affacbd-3c8e-481b-9b27-132d80c76b89)
 
 
 A dark theme is also available, which is set from the options window 
